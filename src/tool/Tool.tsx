@@ -1,5 +1,5 @@
 import { useCallback, useState, type ReactNode } from 'react';
-import { Button, CopyButton, ErrorBox, Panel, TextArea, Toolbar } from '../shell/ui';
+import { Button, CopyButton, ErrorBox, Panel, TextArea, Toolbar } from '@mmoall/tool-kit';
 import { decodeToken, normalizeTokenInput, type JsonSegment } from './jwt-decode';
 import { extractClaimTimes, type ClaimTimeInfo, type InvalidClaimTime } from './claim-time';
 
