@@ -5,6 +5,7 @@ Decode and inspect JSON Web Tokens — header, payload, and signature — fast, 
 **Live:** https://techshield-tech.github.io/jwt-decoder/
 
 Part of [MMOALL Developer Tools](https://mmoall.com/tools).
+Also available at [mmoall.com/tools/jwt-decoder](https://mmoall.com/tools/jwt-decoder).
 
 ## Features
 
